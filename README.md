@@ -10,6 +10,6 @@
 
 ### Link
 
-Demo: [GitHub pages](https://dorottyab.github.io/tenzies/)
+Demo: [https://tenzies-pink.vercel.app/](https://tenzies-pink.vercel.app/)
 
 ![](./screenshot.jpg)
